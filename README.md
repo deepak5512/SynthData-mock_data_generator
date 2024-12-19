@@ -1,1 +1,1 @@
-# mock-data-generator
+# SynthData
