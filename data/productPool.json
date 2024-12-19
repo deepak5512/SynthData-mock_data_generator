@@ -1,0 +1,50 @@
+{
+  "product_name": [
+    "Wireless Bluetooth Earbuds",
+    "Smartphone Screen Protector",
+    "Ergonomic Office Chair",
+    "Waterproof Hiking Backpack",
+    "Electric Hand Mixer",
+    "Stainless Steel Insulated Tumbler",
+    "Yoga Mat with Carrying Strap",
+    "Portable Power Bank 10000mAh",
+    "Noise-Canceling Headphones",
+    "LED Desk Lamp with USB Charging Port",
+    "Nonstick Frying Pan Set",
+    "Fitness Tracker Smartwatch",
+    "Adjustable Dumbbell Set",
+    "Air Purifier for Home",
+    "Rechargeable Electric Toothbrush",
+    "Memory Foam Pillow",
+    "Laptop Cooling Pad",
+    "Digital Kitchen Scale",
+    "Water-Resistant Fitness Watch",
+    "Professional Makeup Brush Set"
+  ],
+  "product_description": [
+    "High-quality Bluetooth earbuds with excellent sound and noise cancellation.",
+    "Tempered glass screen protector for durability and scratch resistance.",
+    "Comfortable and adjustable office chair for long hours of work.",
+    "Durable and spacious hiking backpack with multiple compartments.",
+    "Lightweight and powerful hand mixer for all your baking needs.",
+    "Double-walled insulated tumbler to keep beverages hot or cold.",
+    "Non-slip yoga mat with extra cushioning for better stability.",
+    "Compact power bank with dual USB ports for on-the-go charging.",
+    "Over-ear headphones with active noise cancellation technology.",
+    "Energy-efficient LED desk lamp with adjustable brightness levels.",
+    "Durable nonstick frying pans for easy cooking and cleaning.",
+    "Track your steps, heart rate, and sleep with this advanced smartwatch.",
+    "Adjustable weights for strength training at home.",
+    "Efficient air purifier with HEPA filter for cleaner indoor air.",
+    "Rechargeable toothbrush with multiple brushing modes.",
+    "Supportive memory foam pillow for a comfortable night's sleep.",
+    "Cooling pad with adjustable fans for laptop heat management.",
+    "Accurate kitchen scale for precise measurements while cooking.",
+    "Water-resistant watch with fitness tracking features.",
+    "Set of professional-grade brushes for flawless makeup application."
+  ],
+  "price": [
+    29.99, 12.99, 89.99, 49.99, 24.99, 19.99, 22.99, 39.99, 59.99, 34.99, 49.99,
+    79.99, 199.99, 89.99, 49.99, 29.99, 19.99, 14.99, 119.99, 34.99
+  ]
+}
